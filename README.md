@@ -1,2 +1,2 @@
 # README.md
-Second-year CS student @ Dalhousie, interested in VR, AI, and software development
+Second-year CS student @ Dalhousie, interested in VR, AI, and software development with hands-on experience in VR development, software engineering, and data analysis. Through my work at the Vertex Lab and Dal Rocketry Division, I’ve gained skills in Unity, C#, and embedded systems. I enjoy building projects that connect AI, games, and real-world applications, and I’m looking forward to contributing to innovative co-op teams.
